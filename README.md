@@ -7,10 +7,6 @@ api para controlar chamados de suporte técnico usando node.js, express e postgr
 npm i express
 npm i pg
 
-## banco
-
-execute o arquivo database.sql no postgresql e depois coloque sua senha no arquivo db.js.
-
 ## iniciar
 
 npm start
